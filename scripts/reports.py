@@ -147,8 +147,8 @@ def generate_pdf_rezervari(data):
 
 
     intro_text = f"""
-    Acest raport prezinta analiza produselor vandute in cadrul aplicatiei Inventory System.
-    Datele sunt agregate din tabela comenzilor si sunt ordonate descrescator in functie de cantitatea totala vanduta.
+    Acest raport prezinta analiza numarului total de rezervarii ale userilor in cadrul aplicatiei Gestionare restaurant.
+    Datele sunt agregate din tabela users si sunt ordonate descrescator in functie de cantitatea totala de persoane pentru fiecare user.
     Raport generat la data: {datetime.now().strftime("%Y-%m-%d %H:%M:%S")}
     """
     elements.append(Paragraph(intro_text, normal_style))
@@ -208,8 +208,8 @@ def generate_pdf_ingrediente(data):
 
 
     intro_text = f"""
-    Acest raport prezinta analiza produselor vandute in cadrul aplicatiei Inventory System.
-    Datele sunt agregate din tabela comenzilor si sunt ordonate descrescator in functie de cantitatea totala vanduta.
+    Acest raport prezinta analiza ingredientelor in cadrul aplicatiei Gestionare restaurant.
+    Datele sunt agregate din tabela ingrediente si sunt ordonate descrescator in functie de cantitatea totala a ingredientelor dupa tipul de ingredient.
     Raport generat la data: {datetime.now().strftime("%Y-%m-%d %H:%M:%S")}
     """
     elements.append(Paragraph(intro_text, normal_style))

@@ -1,0 +1,48 @@
+CREATE TABLE IF NOT EXISTS ingrediente (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    tip_ingredient VARCHAR(50) NOT NULL,
+    nume_ingredient VARCHAR(100) NOT NULL,
+    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+);
+CREATE TABLE IF NOT EXISTS retete(
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    nume_reteta VARCHAR(100) NOT NULL,
+    id_ingrediente_reteta VARCHAR(150) NOT NULL
+);
+CREATE TABLE IF NOT EXISTS stoc(
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    nr_ingrediente INT NOT NULL,
+    data_stocare TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+    id_ingredient INT NOT NULL,
+    FOREIGN KEY (id_ingredient) REFERENCES ingrediente(id)
+);
+CREATE TABLE IF NOT EXISTS users(
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    username VARCHAR(50) NOT NULL UNIQUE,
+    password_hash VARCHAR(100) NOT NULL,
+    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+);
+CREATE TABLE IF NOT EXISTS user_log(
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    user_id INT NOT NULL,
+    action VARCHAR(100) NOT NULL,
+    create_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+    FOREIGN KEY (user_id) REFERENCES users(id)
+);
+CREATE TABLE IF NOT EXISTS rezervari(
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    user_id INT NOT NULL,
+    numar_persoane INT NOT NULL,
+    data_rezervarii TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+    FOREIGN KEY (user_id) REFERENCES users(id)
+);
+CREATE TABLE IF NOT EXISTS mese_rezervate(
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    user_id INT NOT NULL,
+    rezervare_id INT NOT NULL,
+    numar_locuri INT NOT NULL,
+    timpul_rezervarii TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+    sku VARCHAR(100) NOT NULL,
+    FOREIGN KEY (user_id) REFERENCES users(id),
+    FOREIGN KEY (rezervare_id) REFERENCES rezervari(id)
+);

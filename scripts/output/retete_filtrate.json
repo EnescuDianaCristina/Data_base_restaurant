@@ -1,0 +1,757 @@
+{
+  "ingrediente": "porc a la inginer",
+  "results": [
+    {
+      "sku": 281,
+      "nume": "vita studentesc"
+    },
+    {
+      "sku": 31,
+      "nume": "vita studentesc"
+    },
+    {
+      "sku": 44,
+      "nume": "vita studentesc"
+    },
+    {
+      "sku": 168,
+      "nume": "vita studentesc"
+    },
+    {
+      "sku": 173,
+      "nume": "vita studentesc"
+    },
+    {
+      "sku": 4,
+      "nume": "vita special"
+    },
+    {
+      "sku": 274,
+      "nume": "vita special"
+    },
+    {
+      "sku": 33,
+      "nume": "vita special"
+    },
+    {
+      "sku": 303,
+      "nume": "vita special"
+    },
+    {
+      "sku": 67,
+      "nume": "vita special"
+    },
+    {
+      "sku": 88,
+      "nume": "vita special"
+    },
+    {
+      "sku": 353,
+      "nume": "vita special"
+    },
+    {
+      "sku": 372,
+      "nume": "vita special"
+    },
+    {
+      "sku": 185,
+      "nume": "vita special"
+    },
+    {
+      "sku": 254,
+      "nume": "vita special"
+    },
+    {
+      "sku": 19,
+      "nume": "vita sarat"
+    },
+    {
+      "sku": 86,
+      "nume": "vita sarat"
+    },
+    {
+      "sku": 352,
+      "nume": "vita sarat"
+    },
+    {
+      "sku": 147,
+      "nume": "vita sarat"
+    },
+    {
+      "sku": 184,
+      "nume": "vita sarat"
+    },
+    {
+      "sku": 197,
+      "nume": "vita sarat"
+    },
+    {
+      "sku": 207,
+      "nume": "vita sarat"
+    },
+    {
+      "sku": 287,
+      "nume": "vita romanesc"
+    },
+    {
+      "sku": 304,
+      "nume": "vita romanesc"
+    },
+    {
+      "sku": 76,
+      "nume": "vita romanesc"
+    },
+    {
+      "sku": 358,
+      "nume": "vita romanesc"
+    },
+    {
+      "sku": 374,
+      "nume": "vita romanesc"
+    },
+    {
+      "sku": 119,
+      "nume": "vita romanesc"
+    },
+    {
+      "sku": 125,
+      "nume": "vita romanesc"
+    },
+    {
+      "sku": 326,
+      "nume": "vita dulce"
+    },
+    {
+      "sku": 74,
+      "nume": "vita dulce"
+    },
+    {
+      "sku": 92,
+      "nume": "vita dulce"
+    },
+    {
+      "sku": 349,
+      "nume": "vita dulce"
+    },
+    {
+      "sku": 364,
+      "nume": "vita dulce"
+    },
+    {
+      "sku": 368,
+      "nume": "vita dulce"
+    },
+    {
+      "sku": 373,
+      "nume": "vita dulce"
+    },
+    {
+      "sku": 122,
+      "nume": "vita dulce"
+    },
+    {
+      "sku": 143,
+      "nume": "vita dulce"
+    },
+    {
+      "sku": 158,
+      "nume": "vita dulce"
+    },
+    {
+      "sku": 161,
+      "nume": "vita dulce"
+    },
+    {
+      "sku": 227,
+      "nume": "vita dulce"
+    },
+    {
+      "sku": 270,
+      "nume": "vita de provincie"
+    },
+    {
+      "sku": 329,
+      "nume": "vita de provincie"
+    },
+    {
+      "sku": 99,
+      "nume": "vita de provincie"
+    },
+    {
+      "sku": 201,
+      "nume": "vita de provincie"
+    },
+    {
+      "sku": 242,
+      "nume": "vita de provincie"
+    },
+    {
+      "sku": 273,
+      "nume": "vita ca la mama acasa"
+    },
+    {
+      "sku": 297,
+      "nume": "vita ca la mama acasa"
+    },
+    {
+      "sku": 306,
+      "nume": "vita ca la mama acasa"
+    },
+    {
+      "sku": 95,
+      "nume": "vita ca la mama acasa"
+    },
+    {
+      "sku": 365,
+      "nume": "vita ca la mama acasa"
+    },
+    {
+      "sku": 117,
+      "nume": "vita ca la mama acasa"
+    },
+    {
+      "sku": 118,
+      "nume": "vita ca la mama acasa"
+    },
+    {
+      "sku": 376,
+      "nume": "vita ca la mama acasa"
+    },
+    {
+      "sku": 127,
+      "nume": "vita ca la mama acasa"
+    },
+    {
+      "sku": 175,
+      "nume": "vita ca la mama acasa"
+    },
+    {
+      "sku": 237,
+      "nume": "vita ca la mama acasa"
+    },
+    {
+      "sku": 260,
+      "nume": "vita a la inginer"
+    },
+    {
+      "sku": 275,
+      "nume": "vita a la inginer"
+    },
+    {
+      "sku": 49,
+      "nume": "vita a la inginer"
+    },
+    {
+      "sku": 97,
+      "nume": "vita a la inginer"
+    },
+    {
+      "sku": 115,
+      "nume": "vita a la inginer"
+    },
+    {
+      "sku": 387,
+      "nume": "vita a la inginer"
+    },
+    {
+      "sku": 213,
+      "nume": "vita a la inginer"
+    },
+    {
+      "sku": 305,
+      "nume": "rosii studentesc"
+    },
+    {
+      "sku": 60,
+      "nume": "rosii studentesc"
+    },
+    {
+      "sku": 319,
+      "nume": "rosii studentesc"
+    },
+    {
+      "sku": 328,
+      "nume": "rosii studentesc"
+    },
+    {
+      "sku": 100,
+      "nume": "rosii studentesc"
+    },
+    {
+      "sku": 230,
+      "nume": "rosii studentesc"
+    },
+    {
+      "sku": 64,
+      "nume": "rosii special"
+    },
+    {
+      "sku": 369,
+      "nume": "rosii special"
+    },
+    {
+      "sku": 53,
+      "nume": "rosii sarat"
+    },
+    {
+      "sku": 129,
+      "nume": "rosii sarat"
+    },
+    {
+      "sku": 397,
+      "nume": "rosii sarat"
+    },
+    {
+      "sku": 399,
+      "nume": "rosii sarat"
+    },
+    {
+      "sku": 170,
+      "nume": "rosii sarat"
+    },
+    {
+      "sku": 240,
+      "nume": "rosii sarat"
+    },
+    {
+      "sku": 24,
+      "nume": "rosii romanesc"
+    },
+    {
+      "sku": 39,
+      "nume": "rosii romanesc"
+    },
+    {
+      "sku": 80,
+      "nume": "rosii romanesc"
+    },
+    {
+      "sku": 121,
+      "nume": "rosii romanesc"
+    },
+    {
+      "sku": 333,
+      "nume": "rosii dulce"
+    },
+    {
+      "sku": 370,
+      "nume": "rosii dulce"
+    },
+    {
+      "sku": 205,
+      "nume": "rosii dulce"
+    },
+    {
+      "sku": 212,
+      "nume": "rosii dulce"
+    },
+    {
+      "sku": 32,
+      "nume": "rosii de provincie"
+    },
+    {
+      "sku": 35,
+      "nume": "rosii de provincie"
+    },
+    {
+      "sku": 300,
+      "nume": "rosii de provincie"
+    },
+    {
+      "sku": 45,
+      "nume": "rosii de provincie"
+    },
+    {
+      "sku": 63,
+      "nume": "rosii de provincie"
+    },
+    {
+      "sku": 126,
+      "nume": "rosii de provincie"
+    },
+    {
+      "sku": 130,
+      "nume": "rosii de provincie"
+    },
+    {
+      "sku": 219,
+      "nume": "rosii de provincie"
+    },
+    {
+      "sku": 38,
+      "nume": "rosii ca la mama acasa"
+    },
+    {
+      "sku": 144,
+      "nume": "rosii ca la mama acasa"
+    },
+    {
+      "sku": 231,
+      "nume": "rosii ca la mama acasa"
+    },
+    {
+      "sku": 7,
+      "nume": "rosii a la inginer"
+    },
+    {
+      "sku": 271,
+      "nume": "rosii a la inginer"
+    },
+    {
+      "sku": 295,
+      "nume": "rosii a la inginer"
+    },
+    {
+      "sku": 310,
+      "nume": "rosii a la inginer"
+    },
+    {
+      "sku": 56,
+      "nume": "rosii a la inginer"
+    },
+    {
+      "sku": 112,
+      "nume": "rosii a la inginer"
+    },
+    {
+      "sku": 192,
+      "nume": "rosii a la inginer"
+    },
+    {
+      "sku": 73,
+      "nume": "pui studentesc"
+    },
+    {
+      "sku": 79,
+      "nume": "pui studentesc"
+    },
+    {
+      "sku": 347,
+      "nume": "pui studentesc"
+    },
+    {
+      "sku": 128,
+      "nume": "pui studentesc"
+    },
+    {
+      "sku": 255,
+      "nume": "pui studentesc"
+    },
+    {
+      "sku": 285,
+      "nume": "pui special"
+    },
+    {
+      "sku": 323,
+      "nume": "pui special"
+    },
+    {
+      "sku": 87,
+      "nume": "pui special"
+    },
+    {
+      "sku": 89,
+      "nume": "pui special"
+    },
+    {
+      "sku": 388,
+      "nume": "pui special"
+    },
+    {
+      "sku": 400,
+      "nume": "pui special"
+    },
+    {
+      "sku": 160,
+      "nume": "pui special"
+    },
+    {
+      "sku": 6,
+      "nume": "pui sarat"
+    },
+    {
+      "sku": 65,
+      "nume": "pui sarat"
+    },
+    {
+      "sku": 68,
+      "nume": "pui sarat"
+    },
+    {
+      "sku": 325,
+      "nume": "pui sarat"
+    },
+    {
+      "sku": 336,
+      "nume": "pui sarat"
+    },
+    {
+      "sku": 278,
+      "nume": "pui romanesc"
+    },
+    {
+      "sku": 78,
+      "nume": "pui romanesc"
+    },
+    {
+      "sku": 371,
+      "nume": "pui romanesc"
+    },
+    {
+      "sku": 177,
+      "nume": "pui romanesc"
+    },
+    {
+      "sku": 69,
+      "nume": "pui dulce"
+    },
+    {
+      "sku": 338,
+      "nume": "pui dulce"
+    },
+    {
+      "sku": 107,
+      "nume": "pui dulce"
+    },
+    {
+      "sku": 182,
+      "nume": "pui dulce"
+    },
+    {
+      "sku": 272,
+      "nume": "pui de provincie"
+    },
+    {
+      "sku": 280,
+      "nume": "pui de provincie"
+    },
+    {
+      "sku": 318,
+      "nume": "pui de provincie"
+    },
+    {
+      "sku": 331,
+      "nume": "pui de provincie"
+    },
+    {
+      "sku": 226,
+      "nume": "pui de provincie"
+    },
+    {
+      "sku": 229,
+      "nume": "pui de provincie"
+    },
+    {
+      "sku": 241,
+      "nume": "pui de provincie"
+    },
+    {
+      "sku": 8,
+      "nume": "pui ca la mama acasa"
+    },
+    {
+      "sku": 290,
+      "nume": "pui ca la mama acasa"
+    },
+    {
+      "sku": 37,
+      "nume": "pui ca la mama acasa"
+    },
+    {
+      "sku": 42,
+      "nume": "pui ca la mama acasa"
+    },
+    {
+      "sku": 149,
+      "nume": "pui ca la mama acasa"
+    },
+    {
+      "sku": 308,
+      "nume": "pui a la inginer"
+    },
+    {
+      "sku": 317,
+      "nume": "pui a la inginer"
+    },
+    {
+      "sku": 320,
+      "nume": "pui a la inginer"
+    },
+    {
+      "sku": 384,
+      "nume": "pui a la inginer"
+    },
+    {
+      "sku": 264,
+      "nume": "porc studentesc"
+    },
+    {
+      "sku": 50,
+      "nume": "porc studentesc"
+    },
+    {
+      "sku": 156,
+      "nume": "porc studentesc"
+    },
+    {
+      "sku": 174,
+      "nume": "porc studentesc"
+    },
+    {
+      "sku": 188,
+      "nume": "porc studentesc"
+    },
+    {
+      "sku": 321,
+      "nume": "porc special"
+    },
+    {
+      "sku": 337,
+      "nume": "porc special"
+    },
+    {
+      "sku": 93,
+      "nume": "porc special"
+    },
+    {
+      "sku": 96,
+      "nume": "porc special"
+    },
+    {
+      "sku": 385,
+      "nume": "porc special"
+    },
+    {
+      "sku": 210,
+      "nume": "porc special"
+    },
+    {
+      "sku": 343,
+      "nume": "porc sarat"
+    },
+    {
+      "sku": 94,
+      "nume": "porc sarat"
+    },
+    {
+      "sku": 350,
+      "nume": "porc sarat"
+    },
+    {
+      "sku": 36,
+      "nume": "porc romanesc"
+    },
+    {
+      "sku": 327,
+      "nume": "porc romanesc"
+    },
+    {
+      "sku": 91,
+      "nume": "porc romanesc"
+    },
+    {
+      "sku": 363,
+      "nume": "porc romanesc"
+    },
+    {
+      "sku": 176,
+      "nume": "porc romanesc"
+    },
+    {
+      "sku": 186,
+      "nume": "porc romanesc"
+    },
+    {
+      "sku": 28,
+      "nume": "porc dulce"
+    },
+    {
+      "sku": 286,
+      "nume": "porc dulce"
+    },
+    {
+      "sku": 322,
+      "nume": "porc dulce"
+    },
+    {
+      "sku": 77,
+      "nume": "porc dulce"
+    },
+    {
+      "sku": 361,
+      "nume": "porc dulce"
+    },
+    {
+      "sku": 239,
+      "nume": "porc dulce"
+    },
+    {
+      "sku": 9,
+      "nume": "porc de provincie"
+    },
+    {
+      "sku": 55,
+      "nume": "porc de provincie"
+    },
+    {
+      "sku": 165,
+      "nume": "porc de provincie"
+    },
+    {
+      "sku": 245,
+      "nume": "porc de provincie"
+    },
+    {
+      "sku": 296,
+      "nume": "porc ca la mama acasa"
+    },
+    {
+      "sku": 43,
+      "nume": "porc ca la mama acasa"
+    },
+    {
+      "sku": 70,
+      "nume": "porc ca la mama acasa"
+    },
+    {
+      "sku": 98,
+      "nume": "porc ca la mama acasa"
+    },
+    {
+      "sku": 190,
+      "nume": "porc ca la mama acasa"
+    },
+    {
+      "sku": 196,
+      "nume": "porc ca la mama acasa"
+    },
+    {
+      "sku": 258,
+      "nume": "porc a la inginer"
+    },
+    {
+      "sku": 265,
+      "nume": "porc a la inginer"
+    },
+    {
+      "sku": 12,
+      "nume": "porc a la inginer"
+    },
+    {
+      "sku": 346,
+      "nume": "porc a la inginer"
+    },
+    {
+      "sku": 356,
+      "nume": "porc a la inginer"
+    },
+    {
+      "sku": 193,
+      "nume": "porc a la inginer"
+    },
+    {
+      "sku": 248,
+      "nume": "porc a la inginer"
+    }
+  ]
+}

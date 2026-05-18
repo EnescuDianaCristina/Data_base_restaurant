@@ -1,14 +1,22 @@
 [
   {
-    "tip_ingredient": "legume",
-    "cantitate_totala": 354300
+    "name": "admin",
+    "total_qty": 54
   },
   {
-    "tip_ingredient": "lactate",
-    "cantitate_totala": 353780
+    "name": "test4",
+    "total_qty": 5
   },
   {
-    "tip_ingredient": "carne",
-    "cantitate_totala": 345478
+    "name": "stewartmelissa262",
+    "total_qty": 4
+  },
+  {
+    "name": "davidsmith364",
+    "total_qty": 3
+  },
+  {
+    "name": "john61433",
+    "total_qty": 2
   }
 ]

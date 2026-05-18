@@ -80,11 +80,13 @@ def export_csv_ingrediente(data):
         writer.writerows(data)
 
 
-def export_json(data):
+def export_json_rezervari(data):
     with open(JSON_PATH_1, "w", encoding="utf-8") as f:
         json.dump(data, f, indent=2, ensure_ascii=False)
 
-
+def export_json_ingrediente(data):
+    with open(JSON_PATH_2, "w", encoding="utf-8") as f:
+        json.dump(data, f, indent=2, ensure_ascii=False)
 
 
 def generate_chart_rezervari(data):
@@ -95,7 +97,7 @@ def generate_chart_rezervari(data):
     plt.plot(names, values)
     plt.title("Top users rezervari")
     plt.xlabel("User")
-    plt.ylabel("Numar de rezervari")
+    plt.ylabel("Numar de persoane rezervate")
     plt.xticks(rotation=45)
     plt.tight_layout()
     plt.savefig(str(CHART_PATH_1))
@@ -155,7 +157,7 @@ def generate_pdf_rezervari(data):
     elements.append(Spacer(1, 20))
 
 
-    table_data = [["Produs", "Cantitate"]]
+    table_data = [["Users", "Cantitate"]]
     for d in data:
         table_data.append([d["name"], d["total_qty"]])
 
@@ -216,7 +218,7 @@ def generate_pdf_ingrediente(data):
     elements.append(Spacer(1, 20))
 
 
-    table_data = [["Produs", "Cantitate"]]
+    table_data = [["Ingredient", "Cantitate"]]
     for d in data:
         table_data.append([d["tip_ingredient"], d["cantitate_totala"]])
 
@@ -247,7 +249,7 @@ def main():
         return
 
     export_csv_rezervari(data)
-    export_json(data)
+    export_json_rezervari(data)
     generate_chart_rezervari(data)
     generate_pdf_rezervari(data)
 
@@ -260,7 +262,7 @@ def main():
         return
 
     export_csv_ingrediente(data)
-    export_json(data)
+    export_json_ingrediente(data)
     generate_chart_ingrediente(data)
     generate_pdf_ingrediente(data)
 

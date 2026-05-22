@@ -1,1 +1,2002 @@
-[]
+[
+  {
+    "id": 1,
+    "nume": "morcovi dulce",
+    "reteta": "3774, 498, 3534"
+  },
+  {
+    "id": 2,
+    "nume": "vita romanesc",
+    "reteta": "1101, 2863, 2082"
+  },
+  {
+    "id": 3,
+    "nume": "pui de provincie",
+    "reteta": "2261, 501, 1206"
+  },
+  {
+    "id": 4,
+    "nume": "lapte de provincie",
+    "reteta": "1798, 2243, 2200"
+  },
+  {
+    "id": 5,
+    "nume": "rosii a la inginer",
+    "reteta": "3053, 3775, 10"
+  },
+  {
+    "id": 6,
+    "nume": "branza dulce",
+    "reteta": "830, 3454, 3835"
+  },
+  {
+    "id": 7,
+    "nume": "vita romanesc",
+    "reteta": "4463, 2473, 527"
+  },
+  {
+    "id": 8,
+    "nume": "morcovi ca la mama acasa",
+    "reteta": "1671, 1383, 427"
+  },
+  {
+    "id": 9,
+    "nume": "pui a la inginer",
+    "reteta": "3766, 4782, 4647"
+  },
+  {
+    "id": 10,
+    "nume": "vita special",
+    "reteta": "1856, 1569, 649"
+  },
+  {
+    "id": 11,
+    "nume": "lapte de provincie",
+    "reteta": "2448, 1908, 192"
+  },
+  {
+    "id": 12,
+    "nume": "vita a la inginer",
+    "reteta": "4098, 2816, 4356"
+  },
+  {
+    "id": 13,
+    "nume": "rosii special",
+    "reteta": "981, 2037, 4700"
+  },
+  {
+    "id": 14,
+    "nume": "pui special",
+    "reteta": "3875, 2607, 1350"
+  },
+  {
+    "id": 15,
+    "nume": "lapte a la inginer",
+    "reteta": "2979, 2751, 489"
+  },
+  {
+    "id": 16,
+    "nume": "castraveti de provincie",
+    "reteta": "2670, 21, 4186"
+  },
+  {
+    "id": 17,
+    "nume": "branza sarat",
+    "reteta": "1642, 4279, 3891"
+  },
+  {
+    "id": 18,
+    "nume": "lapte a la inginer",
+    "reteta": "2914, 2583, 3719"
+  },
+  {
+    "id": 19,
+    "nume": "lapte de provincie",
+    "reteta": "4714, 4551, 2174"
+  },
+  {
+    "id": 20,
+    "nume": "morcovi a la inginer",
+    "reteta": "2592, 2222, 3122"
+  },
+  {
+    "id": 21,
+    "nume": "branza studentesc",
+    "reteta": "213, 4037, 2761"
+  },
+  {
+    "id": 22,
+    "nume": "morcovi studentesc",
+    "reteta": "2724, 1965, 2106"
+  },
+  {
+    "id": 23,
+    "nume": "branza dulce",
+    "reteta": "2775, 3375, 621"
+  },
+  {
+    "id": 24,
+    "nume": "porc ca la mama acasa",
+    "reteta": "3526, 4680, 534"
+  },
+  {
+    "id": 25,
+    "nume": "vita a la inginer",
+    "reteta": "2879, 4097, 1966"
+  },
+  {
+    "id": 26,
+    "nume": "lapte sarat",
+    "reteta": "2764, 3107, 4650"
+  },
+  {
+    "id": 27,
+    "nume": "lapte special",
+    "reteta": "4138, 3787, 312"
+  },
+  {
+    "id": 28,
+    "nume": "castraveti romanesc",
+    "reteta": "3413, 1156, 60"
+  },
+  {
+    "id": 29,
+    "nume": "morcovi dulce",
+    "reteta": "3688, 2670, 1192"
+  },
+  {
+    "id": 30,
+    "nume": "morcovi ca la mama acasa",
+    "reteta": "3027, 2744, 3002"
+  },
+  {
+    "id": 31,
+    "nume": "rosii a la inginer",
+    "reteta": "2065, 1099, 4446"
+  },
+  {
+    "id": 32,
+    "nume": "porc dulce",
+    "reteta": "2780, 3337, 1169"
+  },
+  {
+    "id": 33,
+    "nume": "rosii special",
+    "reteta": "1483, 2894, 4611"
+  },
+  {
+    "id": 34,
+    "nume": "pui dulce",
+    "reteta": "232, 2899, 923"
+  },
+  {
+    "id": 35,
+    "nume": "morcovi dulce",
+    "reteta": "37, 1971, 409"
+  },
+  {
+    "id": 36,
+    "nume": "castraveti dulce",
+    "reteta": "3342, 2736, 526"
+  },
+  {
+    "id": 37,
+    "nume": "vita sarat",
+    "reteta": "4686, 3134, 3644"
+  },
+  {
+    "id": 38,
+    "nume": "morcovi sarat",
+    "reteta": "499, 185, 1925"
+  },
+  {
+    "id": 39,
+    "nume": "pui a la inginer",
+    "reteta": "250, 3104, 2942"
+  },
+  {
+    "id": 40,
+    "nume": "morcovi studentesc",
+    "reteta": "2702, 4585, 4262"
+  },
+  {
+    "id": 41,
+    "nume": "lapte dulce",
+    "reteta": "2265, 1936, 3699"
+  },
+  {
+    "id": 42,
+    "nume": "castraveti a la inginer",
+    "reteta": "4126, 1053, 308"
+  },
+  {
+    "id": 43,
+    "nume": "pui romanesc",
+    "reteta": "519, 3265, 4617"
+  },
+  {
+    "id": 44,
+    "nume": "castraveti a la inginer",
+    "reteta": "930, 1136, 1939"
+  },
+  {
+    "id": 45,
+    "nume": "vita sarat",
+    "reteta": "4731, 2357, 4017"
+  },
+  {
+    "id": 46,
+    "nume": "castraveti studentesc",
+    "reteta": "3266, 1644, 4398"
+  },
+  {
+    "id": 47,
+    "nume": "morcovi studentesc",
+    "reteta": "807, 262, 865"
+  },
+  {
+    "id": 48,
+    "nume": "pui special",
+    "reteta": "984, 1941, 882"
+  },
+  {
+    "id": 49,
+    "nume": "rosii romanesc",
+    "reteta": "4271, 4739, 2935"
+  },
+  {
+    "id": 50,
+    "nume": "morcovi romanesc",
+    "reteta": "1541, 1187, 3371"
+  },
+  {
+    "id": 51,
+    "nume": "lapte dulce",
+    "reteta": "24, 1801, 3466"
+  },
+  {
+    "id": 52,
+    "nume": "lapte dulce",
+    "reteta": "3330, 383, 1430"
+  },
+  {
+    "id": 53,
+    "nume": "vita sarat",
+    "reteta": "3888, 2442, 2293"
+  },
+  {
+    "id": 54,
+    "nume": "castraveti de provincie",
+    "reteta": "1095, 3907, 3509"
+  },
+  {
+    "id": 55,
+    "nume": "lapte special",
+    "reteta": "1230, 3305, 1321"
+  },
+  {
+    "id": 56,
+    "nume": "branza studentesc",
+    "reteta": "1199, 2360, 4430"
+  },
+  {
+    "id": 57,
+    "nume": "castraveti special",
+    "reteta": "1202, 4269, 1964"
+  },
+  {
+    "id": 58,
+    "nume": "morcovi a la inginer",
+    "reteta": "86, 4030, 2149"
+  },
+  {
+    "id": 59,
+    "nume": "porc sarat",
+    "reteta": "3651, 4262, 3480"
+  },
+  {
+    "id": 60,
+    "nume": "castraveti ca la mama acasa",
+    "reteta": "1638, 2903, 127"
+  },
+  {
+    "id": 61,
+    "nume": "lapte sarat",
+    "reteta": "4369, 450, 3810"
+  },
+  {
+    "id": 62,
+    "nume": "porc a la inginer",
+    "reteta": "809, 267, 4574"
+  },
+  {
+    "id": 63,
+    "nume": "rosii dulce",
+    "reteta": "2180, 4302, 3257"
+  },
+  {
+    "id": 64,
+    "nume": "pui a la inginer",
+    "reteta": "433, 3500, 1667"
+  },
+  {
+    "id": 65,
+    "nume": "rosii ca la mama acasa",
+    "reteta": "181, 1950, 3308"
+  },
+  {
+    "id": 66,
+    "nume": "castraveti de provincie",
+    "reteta": "547, 19, 4212"
+  },
+  {
+    "id": 67,
+    "nume": "pui special",
+    "reteta": "4, 2845, 2883"
+  },
+  {
+    "id": 68,
+    "nume": "castraveti a la inginer",
+    "reteta": "3070, 433, 1903"
+  },
+  {
+    "id": 69,
+    "nume": "castraveti studentesc",
+    "reteta": "4620, 427, 499"
+  },
+  {
+    "id": 70,
+    "nume": "castraveti special",
+    "reteta": "2280, 719, 2189"
+  },
+  {
+    "id": 71,
+    "nume": "morcovi studentesc",
+    "reteta": "2043, 69, 1075"
+  },
+  {
+    "id": 72,
+    "nume": "rosii special",
+    "reteta": "1251, 1519, 3517"
+  },
+  {
+    "id": 73,
+    "nume": "rosii sarat",
+    "reteta": "4138, 227, 2975"
+  },
+  {
+    "id": 74,
+    "nume": "pui a la inginer",
+    "reteta": "138, 1176, 4734"
+  },
+  {
+    "id": 75,
+    "nume": "branza special",
+    "reteta": "890, 3311, 345"
+  },
+  {
+    "id": 76,
+    "nume": "porc de provincie",
+    "reteta": "171, 2754, 4556"
+  },
+  {
+    "id": 77,
+    "nume": "morcovi sarat",
+    "reteta": "1577, 49, 3805"
+  },
+  {
+    "id": 78,
+    "nume": "vita studentesc",
+    "reteta": "4721, 1613, 1180"
+  },
+  {
+    "id": 79,
+    "nume": "pui ca la mama acasa",
+    "reteta": "2891, 3549, 1097"
+  },
+  {
+    "id": 80,
+    "nume": "lapte ca la mama acasa",
+    "reteta": "292, 1655, 1826"
+  },
+  {
+    "id": 81,
+    "nume": "castraveti romanesc",
+    "reteta": "3565, 4557, 2669"
+  },
+  {
+    "id": 82,
+    "nume": "pui ca la mama acasa",
+    "reteta": "3223, 3509, 4607"
+  },
+  {
+    "id": 83,
+    "nume": "branza special",
+    "reteta": "2092, 2877, 3188"
+  },
+  {
+    "id": 84,
+    "nume": "branza sarat",
+    "reteta": "3108, 359, 2944"
+  },
+  {
+    "id": 85,
+    "nume": "morcovi studentesc",
+    "reteta": "1274, 3989, 2670"
+  },
+  {
+    "id": 86,
+    "nume": "lapte special",
+    "reteta": "848, 1441, 3134"
+  },
+  {
+    "id": 87,
+    "nume": "morcovi romanesc",
+    "reteta": "4435, 4274, 50"
+  },
+  {
+    "id": 88,
+    "nume": "branza studentesc",
+    "reteta": "926, 3919, 3820"
+  },
+  {
+    "id": 89,
+    "nume": "morcovi romanesc",
+    "reteta": "4020, 1761, 4267"
+  },
+  {
+    "id": 90,
+    "nume": "vita dulce",
+    "reteta": "919, 900, 4328"
+  },
+  {
+    "id": 91,
+    "nume": "pui studentesc",
+    "reteta": "3076, 3103, 3364"
+  },
+  {
+    "id": 92,
+    "nume": "rosii de provincie",
+    "reteta": "3182, 16, 1482"
+  },
+  {
+    "id": 93,
+    "nume": "porc sarat",
+    "reteta": "2513, 1826, 4426"
+  },
+  {
+    "id": 94,
+    "nume": "castraveti ca la mama acasa",
+    "reteta": "3366, 2848, 4711"
+  },
+  {
+    "id": 95,
+    "nume": "branza sarat",
+    "reteta": "1833, 1480, 3779"
+  },
+  {
+    "id": 96,
+    "nume": "vita special",
+    "reteta": "3030, 3261, 3045"
+  },
+  {
+    "id": 97,
+    "nume": "branza a la inginer",
+    "reteta": "2411, 2069, 487"
+  },
+  {
+    "id": 98,
+    "nume": "branza dulce",
+    "reteta": "556, 3806, 3605"
+  },
+  {
+    "id": 99,
+    "nume": "vita sarat",
+    "reteta": "2288, 2926, 147"
+  },
+  {
+    "id": 100,
+    "nume": "porc romanesc",
+    "reteta": "4628, 238, 3905"
+  },
+  {
+    "id": 101,
+    "nume": "castraveti romanesc",
+    "reteta": "4364, 503, 3439"
+  },
+  {
+    "id": 102,
+    "nume": "vita special",
+    "reteta": "4351, 2725, 2585"
+  },
+  {
+    "id": 103,
+    "nume": "vita a la inginer",
+    "reteta": "888, 2226, 4347"
+  },
+  {
+    "id": 104,
+    "nume": "rosii dulce",
+    "reteta": "4616, 1521, 4315"
+  },
+  {
+    "id": 105,
+    "nume": "castraveti ca la mama acasa",
+    "reteta": "395, 3054, 504"
+  },
+  {
+    "id": 106,
+    "nume": "porc dulce",
+    "reteta": "3346, 622, 378"
+  },
+  {
+    "id": 107,
+    "nume": "branza sarat",
+    "reteta": "3855, 3175, 14"
+  },
+  {
+    "id": 108,
+    "nume": "lapte a la inginer",
+    "reteta": "841, 3474, 2790"
+  },
+  {
+    "id": 109,
+    "nume": "pui a la inginer",
+    "reteta": "4714, 3961, 680"
+  },
+  {
+    "id": 110,
+    "nume": "morcovi de provincie",
+    "reteta": "4027, 2769, 4770"
+  },
+  {
+    "id": 111,
+    "nume": "rosii sarat",
+    "reteta": "54, 2265, 575"
+  },
+  {
+    "id": 112,
+    "nume": "rosii ca la mama acasa",
+    "reteta": "3193, 2590, 4096"
+  },
+  {
+    "id": 113,
+    "nume": "lapte special",
+    "reteta": "719, 2338, 3160"
+  },
+  {
+    "id": 114,
+    "nume": "porc a la inginer",
+    "reteta": "2288, 2776, 4497"
+  },
+  {
+    "id": 115,
+    "nume": "porc a la inginer",
+    "reteta": "206, 3527, 1577"
+  },
+  {
+    "id": 116,
+    "nume": "lapte studentesc",
+    "reteta": "3067, 1026, 2602"
+  },
+  {
+    "id": 117,
+    "nume": "morcovi sarat",
+    "reteta": "1123, 3767, 3585"
+  },
+  {
+    "id": 118,
+    "nume": "vita sarat",
+    "reteta": "2664, 1188, 3181"
+  },
+  {
+    "id": 119,
+    "nume": "porc sarat",
+    "reteta": "507, 4127, 2942"
+  },
+  {
+    "id": 120,
+    "nume": "rosii romanesc",
+    "reteta": "1992, 1617, 1817"
+  },
+  {
+    "id": 121,
+    "nume": "branza studentesc",
+    "reteta": "1891, 3378, 4683"
+  },
+  {
+    "id": 122,
+    "nume": "rosii sarat",
+    "reteta": "1910, 1952, 2318"
+  },
+  {
+    "id": 123,
+    "nume": "rosii ca la mama acasa",
+    "reteta": "3233, 4503, 372"
+  },
+  {
+    "id": 124,
+    "nume": "morcovi de provincie",
+    "reteta": "1615, 2799, 307"
+  },
+  {
+    "id": 125,
+    "nume": "rosii dulce",
+    "reteta": "61, 576, 4619"
+  },
+  {
+    "id": 126,
+    "nume": "rosii studentesc",
+    "reteta": "2205, 1599, 797"
+  },
+  {
+    "id": 127,
+    "nume": "pui studentesc",
+    "reteta": "2327, 480, 3117"
+  },
+  {
+    "id": 128,
+    "nume": "morcovi ca la mama acasa",
+    "reteta": "3708, 1042, 2711"
+  },
+  {
+    "id": 129,
+    "nume": "vita de provincie",
+    "reteta": "2152, 2245, 1823"
+  },
+  {
+    "id": 130,
+    "nume": "rosii a la inginer",
+    "reteta": "3883, 2663, 2210"
+  },
+  {
+    "id": 131,
+    "nume": "morcovi studentesc",
+    "reteta": "4134, 1400, 1927"
+  },
+  {
+    "id": 132,
+    "nume": "castraveti sarat",
+    "reteta": "3902, 2068, 212"
+  },
+  {
+    "id": 133,
+    "nume": "pui special",
+    "reteta": "1703, 1009, 3432"
+  },
+  {
+    "id": 134,
+    "nume": "pui de provincie",
+    "reteta": "1392, 2692, 303"
+  },
+  {
+    "id": 135,
+    "nume": "vita romanesc",
+    "reteta": "985, 2634, 2624"
+  },
+  {
+    "id": 136,
+    "nume": "morcovi ca la mama acasa",
+    "reteta": "1234, 3218, 3411"
+  },
+  {
+    "id": 137,
+    "nume": "rosii ca la mama acasa",
+    "reteta": "1085, 3655, 1061"
+  },
+  {
+    "id": 138,
+    "nume": "porc studentesc",
+    "reteta": "4157, 459, 3109"
+  },
+  {
+    "id": 139,
+    "nume": "lapte studentesc",
+    "reteta": "3442, 1480, 4555"
+  },
+  {
+    "id": 140,
+    "nume": "castraveti romanesc",
+    "reteta": "856, 3027, 3073"
+  },
+  {
+    "id": 141,
+    "nume": "morcovi dulce",
+    "reteta": "4683, 956, 69"
+  },
+  {
+    "id": 142,
+    "nume": "lapte de provincie",
+    "reteta": "1945, 1594, 3016"
+  },
+  {
+    "id": 143,
+    "nume": "lapte romanesc",
+    "reteta": "971, 4245, 780"
+  },
+  {
+    "id": 144,
+    "nume": "porc sarat",
+    "reteta": "626, 1425, 2568"
+  },
+  {
+    "id": 145,
+    "nume": "vita dulce",
+    "reteta": "4324, 371, 3987"
+  },
+  {
+    "id": 146,
+    "nume": "pui a la inginer",
+    "reteta": "3389, 4015, 3993"
+  },
+  {
+    "id": 147,
+    "nume": "porc studentesc",
+    "reteta": "2744, 3463, 3968"
+  },
+  {
+    "id": 148,
+    "nume": "porc de provincie",
+    "reteta": "1350, 1463, 3802"
+  },
+  {
+    "id": 149,
+    "nume": "rosii sarat",
+    "reteta": "393, 2528, 4220"
+  },
+  {
+    "id": 150,
+    "nume": "morcovi dulce",
+    "reteta": "3010, 3749, 3927"
+  },
+  {
+    "id": 151,
+    "nume": "lapte special",
+    "reteta": "945, 1767, 1021"
+  },
+  {
+    "id": 152,
+    "nume": "branza sarat",
+    "reteta": "2260, 2209, 1438"
+  },
+  {
+    "id": 153,
+    "nume": "branza ca la mama acasa",
+    "reteta": "1823, 1371, 4695"
+  },
+  {
+    "id": 154,
+    "nume": "pui studentesc",
+    "reteta": "2716, 1867, 3035"
+  },
+  {
+    "id": 155,
+    "nume": "lapte a la inginer",
+    "reteta": "616, 1054, 3733"
+  },
+  {
+    "id": 156,
+    "nume": "pui de provincie",
+    "reteta": "4708, 4523, 1879"
+  },
+  {
+    "id": 157,
+    "nume": "lapte special",
+    "reteta": "3903, 2968, 3342"
+  },
+  {
+    "id": 158,
+    "nume": "rosii studentesc",
+    "reteta": "991, 3251, 4017"
+  },
+  {
+    "id": 159,
+    "nume": "porc studentesc",
+    "reteta": "435, 979, 988"
+  },
+  {
+    "id": 160,
+    "nume": "lapte studentesc",
+    "reteta": "2219, 638, 3544"
+  },
+  {
+    "id": 161,
+    "nume": "rosii dulce",
+    "reteta": "2770, 1462, 2755"
+  },
+  {
+    "id": 162,
+    "nume": "morcovi a la inginer",
+    "reteta": "3620, 2741, 192"
+  },
+  {
+    "id": 163,
+    "nume": "morcovi a la inginer",
+    "reteta": "2318, 3183, 4232"
+  },
+  {
+    "id": 164,
+    "nume": "vita a la inginer",
+    "reteta": "3808, 581, 3163"
+  },
+  {
+    "id": 165,
+    "nume": "castraveti special",
+    "reteta": "1922, 328, 92"
+  },
+  {
+    "id": 166,
+    "nume": "rosii studentesc",
+    "reteta": "2099, 869, 2213"
+  },
+  {
+    "id": 167,
+    "nume": "castraveti dulce",
+    "reteta": "695, 2115, 2423"
+  },
+  {
+    "id": 168,
+    "nume": "lapte dulce",
+    "reteta": "831, 531, 1459"
+  },
+  {
+    "id": 169,
+    "nume": "castraveti a la inginer",
+    "reteta": "3284, 4719, 1661"
+  },
+  {
+    "id": 170,
+    "nume": "rosii studentesc",
+    "reteta": "249, 4469, 4284"
+  },
+  {
+    "id": 171,
+    "nume": "lapte de provincie",
+    "reteta": "4668, 2649, 267"
+  },
+  {
+    "id": 172,
+    "nume": "lapte romanesc",
+    "reteta": "3551, 3683, 3502"
+  },
+  {
+    "id": 173,
+    "nume": "morcovi dulce",
+    "reteta": "160, 1985, 2508"
+  },
+  {
+    "id": 174,
+    "nume": "branza ca la mama acasa",
+    "reteta": "1314, 700, 2607"
+  },
+  {
+    "id": 175,
+    "nume": "rosii special",
+    "reteta": "4540, 4376, 4763"
+  },
+  {
+    "id": 176,
+    "nume": "vita a la inginer",
+    "reteta": "359, 3217, 4413"
+  },
+  {
+    "id": 177,
+    "nume": "lapte special",
+    "reteta": "843, 2747, 1627"
+  },
+  {
+    "id": 178,
+    "nume": "morcovi sarat",
+    "reteta": "260, 2369, 1180"
+  },
+  {
+    "id": 179,
+    "nume": "pui a la inginer",
+    "reteta": "2178, 1125, 3237"
+  },
+  {
+    "id": 180,
+    "nume": "vita studentesc",
+    "reteta": "3060, 1617, 518"
+  },
+  {
+    "id": 181,
+    "nume": "branza studentesc",
+    "reteta": "2305, 1185, 2379"
+  },
+  {
+    "id": 182,
+    "nume": "castraveti studentesc",
+    "reteta": "2444, 934, 3326"
+  },
+  {
+    "id": 183,
+    "nume": "branza romanesc",
+    "reteta": "860, 1569, 4610"
+  },
+  {
+    "id": 184,
+    "nume": "rosii studentesc",
+    "reteta": "3774, 2570, 1972"
+  },
+  {
+    "id": 185,
+    "nume": "vita a la inginer",
+    "reteta": "1851, 1800, 4365"
+  },
+  {
+    "id": 186,
+    "nume": "rosii dulce",
+    "reteta": "2825, 1366, 4180"
+  },
+  {
+    "id": 187,
+    "nume": "porc dulce",
+    "reteta": "592, 4401, 1514"
+  },
+  {
+    "id": 188,
+    "nume": "vita studentesc",
+    "reteta": "229, 1157, 3602"
+  },
+  {
+    "id": 189,
+    "nume": "pui sarat",
+    "reteta": "3297, 2884, 2784"
+  },
+  {
+    "id": 190,
+    "nume": "rosii special",
+    "reteta": "3120, 4323, 1222"
+  },
+  {
+    "id": 191,
+    "nume": "porc special",
+    "reteta": "3821, 235, 355"
+  },
+  {
+    "id": 192,
+    "nume": "rosii a la inginer",
+    "reteta": "4381, 4651, 1101"
+  },
+  {
+    "id": 193,
+    "nume": "lapte a la inginer",
+    "reteta": "707, 4411, 3605"
+  },
+  {
+    "id": 194,
+    "nume": "lapte a la inginer",
+    "reteta": "4645, 4430, 397"
+  },
+  {
+    "id": 195,
+    "nume": "vita dulce",
+    "reteta": "750, 4006, 1764"
+  },
+  {
+    "id": 196,
+    "nume": "porc dulce",
+    "reteta": "2204, 235, 3573"
+  },
+  {
+    "id": 197,
+    "nume": "vita a la inginer",
+    "reteta": "1357, 3826, 4500"
+  },
+  {
+    "id": 198,
+    "nume": "rosii special",
+    "reteta": "1581, 2228, 4654"
+  },
+  {
+    "id": 199,
+    "nume": "branza a la inginer",
+    "reteta": "1925, 4759, 3215"
+  },
+  {
+    "id": 200,
+    "nume": "rosii dulce",
+    "reteta": "2327, 4265, 2237"
+  },
+  {
+    "id": 201,
+    "nume": "rosii studentesc",
+    "reteta": "2202, 1249, 4564"
+  },
+  {
+    "id": 202,
+    "nume": "rosii de provincie",
+    "reteta": "451, 2593, 3917"
+  },
+  {
+    "id": 203,
+    "nume": "branza ca la mama acasa",
+    "reteta": "3231, 4573, 3865"
+  },
+  {
+    "id": 204,
+    "nume": "lapte a la inginer",
+    "reteta": "3302, 1375, 856"
+  },
+  {
+    "id": 205,
+    "nume": "morcovi studentesc",
+    "reteta": "2182, 2982, 1903"
+  },
+  {
+    "id": 206,
+    "nume": "porc special",
+    "reteta": "1302, 2494, 1945"
+  },
+  {
+    "id": 207,
+    "nume": "lapte ca la mama acasa",
+    "reteta": "330, 3108, 3807"
+  },
+  {
+    "id": 208,
+    "nume": "morcovi studentesc",
+    "reteta": "2374, 3527, 2150"
+  },
+  {
+    "id": 209,
+    "nume": "rosii special",
+    "reteta": "1907, 2388, 3251"
+  },
+  {
+    "id": 210,
+    "nume": "pui special",
+    "reteta": "3900, 827, 3878"
+  },
+  {
+    "id": 211,
+    "nume": "rosii a la inginer",
+    "reteta": "1989, 2570, 3789"
+  },
+  {
+    "id": 212,
+    "nume": "morcovi dulce",
+    "reteta": "3873, 1851, 1155"
+  },
+  {
+    "id": 213,
+    "nume": "porc sarat",
+    "reteta": "3807, 3668, 3363"
+  },
+  {
+    "id": 214,
+    "nume": "vita studentesc",
+    "reteta": "71, 4194, 2867"
+  },
+  {
+    "id": 215,
+    "nume": "castraveti dulce",
+    "reteta": "4123, 3945, 1441"
+  },
+  {
+    "id": 216,
+    "nume": "rosii studentesc",
+    "reteta": "4224, 1640, 2232"
+  },
+  {
+    "id": 217,
+    "nume": "branza ca la mama acasa",
+    "reteta": "3365, 1726, 368"
+  },
+  {
+    "id": 218,
+    "nume": "porc romanesc",
+    "reteta": "4254, 607, 2921"
+  },
+  {
+    "id": 219,
+    "nume": "porc studentesc",
+    "reteta": "4546, 2505, 2627"
+  },
+  {
+    "id": 220,
+    "nume": "lapte a la inginer",
+    "reteta": "3706, 667, 3030"
+  },
+  {
+    "id": 221,
+    "nume": "branza special",
+    "reteta": "302, 2981, 385"
+  },
+  {
+    "id": 222,
+    "nume": "vita sarat",
+    "reteta": "3531, 4443, 814"
+  },
+  {
+    "id": 223,
+    "nume": "lapte studentesc",
+    "reteta": "648, 3768, 1178"
+  },
+  {
+    "id": 224,
+    "nume": "vita special",
+    "reteta": "3153, 3669, 779"
+  },
+  {
+    "id": 225,
+    "nume": "morcovi studentesc",
+    "reteta": "3923, 1397, 350"
+  },
+  {
+    "id": 226,
+    "nume": "branza dulce",
+    "reteta": "4623, 2154, 2261"
+  },
+  {
+    "id": 227,
+    "nume": "rosii ca la mama acasa",
+    "reteta": "2415, 699, 1329"
+  },
+  {
+    "id": 228,
+    "nume": "branza special",
+    "reteta": "1936, 238, 2254"
+  },
+  {
+    "id": 229,
+    "nume": "pui de provincie",
+    "reteta": "1039, 75, 1637"
+  },
+  {
+    "id": 230,
+    "nume": "lapte studentesc",
+    "reteta": "328, 3391, 3529"
+  },
+  {
+    "id": 231,
+    "nume": "rosii de provincie",
+    "reteta": "4617, 3039, 4281"
+  },
+  {
+    "id": 232,
+    "nume": "vita sarat",
+    "reteta": "3505, 2692, 2484"
+  },
+  {
+    "id": 233,
+    "nume": "porc dulce",
+    "reteta": "1688, 3969, 2842"
+  },
+  {
+    "id": 234,
+    "nume": "branza dulce",
+    "reteta": "3199, 337, 1382"
+  },
+  {
+    "id": 235,
+    "nume": "porc de provincie",
+    "reteta": "906, 1081, 4224"
+  },
+  {
+    "id": 236,
+    "nume": "morcovi de provincie",
+    "reteta": "193, 2824, 3878"
+  },
+  {
+    "id": 237,
+    "nume": "morcovi a la inginer",
+    "reteta": "797, 3998, 3240"
+  },
+  {
+    "id": 238,
+    "nume": "lapte sarat",
+    "reteta": "1380, 4176, 187"
+  },
+  {
+    "id": 239,
+    "nume": "vita studentesc",
+    "reteta": "4693, 4464, 2750"
+  },
+  {
+    "id": 240,
+    "nume": "porc de provincie",
+    "reteta": "1890, 3525, 4333"
+  },
+  {
+    "id": 241,
+    "nume": "vita special",
+    "reteta": "1319, 4486, 3770"
+  },
+  {
+    "id": 242,
+    "nume": "porc a la inginer",
+    "reteta": "1539, 2071, 2297"
+  },
+  {
+    "id": 243,
+    "nume": "branza special",
+    "reteta": "1814, 1220, 4033"
+  },
+  {
+    "id": 244,
+    "nume": "vita de provincie",
+    "reteta": "3561, 2364, 2793"
+  },
+  {
+    "id": 245,
+    "nume": "porc ca la mama acasa",
+    "reteta": "1136, 3223, 122"
+  },
+  {
+    "id": 246,
+    "nume": "branza dulce",
+    "reteta": "700, 926, 1444"
+  },
+  {
+    "id": 247,
+    "nume": "porc a la inginer",
+    "reteta": "116, 2773, 2854"
+  },
+  {
+    "id": 248,
+    "nume": "vita romanesc",
+    "reteta": "3348, 1830, 4261"
+  },
+  {
+    "id": 249,
+    "nume": "vita de provincie",
+    "reteta": "279, 793, 1931"
+  },
+  {
+    "id": 250,
+    "nume": "pui special",
+    "reteta": "2511, 1019, 2581"
+  },
+  {
+    "id": 251,
+    "nume": "porc de provincie",
+    "reteta": "2042, 4085, 4087"
+  },
+  {
+    "id": 252,
+    "nume": "castraveti dulce",
+    "reteta": "400, 3544, 1285"
+  },
+  {
+    "id": 253,
+    "nume": "porc de provincie",
+    "reteta": "1867, 1530, 2201"
+  },
+  {
+    "id": 254,
+    "nume": "morcovi de provincie",
+    "reteta": "2321, 4126, 149"
+  },
+  {
+    "id": 255,
+    "nume": "pui a la inginer",
+    "reteta": "1876, 152, 2623"
+  },
+  {
+    "id": 256,
+    "nume": "morcovi romanesc",
+    "reteta": "3979, 4709, 3415"
+  },
+  {
+    "id": 257,
+    "nume": "porc de provincie",
+    "reteta": "3963, 959, 3381"
+  },
+  {
+    "id": 258,
+    "nume": "rosii romanesc",
+    "reteta": "3266, 1317, 521"
+  },
+  {
+    "id": 259,
+    "nume": "rosii ca la mama acasa",
+    "reteta": "2398, 1516, 412"
+  },
+  {
+    "id": 260,
+    "nume": "branza romanesc",
+    "reteta": "2833, 3709, 3300"
+  },
+  {
+    "id": 261,
+    "nume": "lapte ca la mama acasa",
+    "reteta": "3722, 1184, 3798"
+  },
+  {
+    "id": 262,
+    "nume": "morcovi de provincie",
+    "reteta": "1651, 2396, 1095"
+  },
+  {
+    "id": 263,
+    "nume": "morcovi ca la mama acasa",
+    "reteta": "1244, 1206, 2851"
+  },
+  {
+    "id": 264,
+    "nume": "branza dulce",
+    "reteta": "803, 1168, 4300"
+  },
+  {
+    "id": 265,
+    "nume": "rosii a la inginer",
+    "reteta": "3429, 398, 3092"
+  },
+  {
+    "id": 266,
+    "nume": "pui a la inginer",
+    "reteta": "836, 1993, 1703"
+  },
+  {
+    "id": 267,
+    "nume": "vita a la inginer",
+    "reteta": "2685, 1125, 4473"
+  },
+  {
+    "id": 268,
+    "nume": "branza studentesc",
+    "reteta": "2351, 1434, 725"
+  },
+  {
+    "id": 269,
+    "nume": "lapte de provincie",
+    "reteta": "652, 2912, 4041"
+  },
+  {
+    "id": 270,
+    "nume": "castraveti romanesc",
+    "reteta": "4676, 4419, 4451"
+  },
+  {
+    "id": 271,
+    "nume": "porc studentesc",
+    "reteta": "2404, 4627, 1757"
+  },
+  {
+    "id": 272,
+    "nume": "vita dulce",
+    "reteta": "3928, 1342, 4615"
+  },
+  {
+    "id": 273,
+    "nume": "porc ca la mama acasa",
+    "reteta": "4451, 3458, 940"
+  },
+  {
+    "id": 274,
+    "nume": "branza romanesc",
+    "reteta": "934, 4054, 4338"
+  },
+  {
+    "id": 275,
+    "nume": "vita de provincie",
+    "reteta": "2847, 1163, 2537"
+  },
+  {
+    "id": 276,
+    "nume": "morcovi sarat",
+    "reteta": "3948, 4316, 1764"
+  },
+  {
+    "id": 277,
+    "nume": "branza a la inginer",
+    "reteta": "2239, 2339, 4016"
+  },
+  {
+    "id": 278,
+    "nume": "rosii sarat",
+    "reteta": "4051, 814, 4544"
+  },
+  {
+    "id": 279,
+    "nume": "vita de provincie",
+    "reteta": "4563, 149, 4141"
+  },
+  {
+    "id": 280,
+    "nume": "rosii studentesc",
+    "reteta": "348, 4032, 718"
+  },
+  {
+    "id": 281,
+    "nume": "lapte romanesc",
+    "reteta": "3707, 4342, 4736"
+  },
+  {
+    "id": 282,
+    "nume": "porc de provincie",
+    "reteta": "4269, 1325, 733"
+  },
+  {
+    "id": 283,
+    "nume": "rosii de provincie",
+    "reteta": "2322, 3076, 2644"
+  },
+  {
+    "id": 284,
+    "nume": "castraveti special",
+    "reteta": "2146, 1722, 2044"
+  },
+  {
+    "id": 285,
+    "nume": "pui ca la mama acasa",
+    "reteta": "1118, 2295, 2950"
+  },
+  {
+    "id": 286,
+    "nume": "pui romanesc",
+    "reteta": "2984, 3865, 4449"
+  },
+  {
+    "id": 287,
+    "nume": "rosii romanesc",
+    "reteta": "703, 815, 3876"
+  },
+  {
+    "id": 288,
+    "nume": "porc sarat",
+    "reteta": "1537, 2875, 4755"
+  },
+  {
+    "id": 289,
+    "nume": "rosii special",
+    "reteta": "2140, 1416, 459"
+  },
+  {
+    "id": 290,
+    "nume": "lapte de provincie",
+    "reteta": "3533, 3191, 4382"
+  },
+  {
+    "id": 291,
+    "nume": "porc ca la mama acasa",
+    "reteta": "4416, 2082, 2039"
+  },
+  {
+    "id": 292,
+    "nume": "morcovi special",
+    "reteta": "4135, 2850, 574"
+  },
+  {
+    "id": 293,
+    "nume": "castraveti a la inginer",
+    "reteta": "714, 4672, 2389"
+  },
+  {
+    "id": 294,
+    "nume": "porc a la inginer",
+    "reteta": "2649, 969, 2579"
+  },
+  {
+    "id": 295,
+    "nume": "castraveti dulce",
+    "reteta": "301, 4412, 1212"
+  },
+  {
+    "id": 296,
+    "nume": "morcovi ca la mama acasa",
+    "reteta": "4212, 4556, 4598"
+  },
+  {
+    "id": 297,
+    "nume": "rosii de provincie",
+    "reteta": "3151, 1727, 274"
+  },
+  {
+    "id": 298,
+    "nume": "rosii romanesc",
+    "reteta": "358, 79, 1247"
+  },
+  {
+    "id": 299,
+    "nume": "castraveti studentesc",
+    "reteta": "4201, 108, 4380"
+  },
+  {
+    "id": 300,
+    "nume": "vita a la inginer",
+    "reteta": "2057, 2091, 2168"
+  },
+  {
+    "id": 301,
+    "nume": "branza a la inginer",
+    "reteta": "3429, 4111, 1729"
+  },
+  {
+    "id": 302,
+    "nume": "morcovi dulce",
+    "reteta": "3078, 2377, 311"
+  },
+  {
+    "id": 303,
+    "nume": "pui ca la mama acasa",
+    "reteta": "3098, 3917, 4229"
+  },
+  {
+    "id": 304,
+    "nume": "rosii dulce",
+    "reteta": "1237, 3992, 2890"
+  },
+  {
+    "id": 305,
+    "nume": "branza sarat",
+    "reteta": "3330, 356, 1721"
+  },
+  {
+    "id": 306,
+    "nume": "rosii de provincie",
+    "reteta": "2961, 1008, 1537"
+  },
+  {
+    "id": 307,
+    "nume": "pui sarat",
+    "reteta": "2250, 2894, 1373"
+  },
+  {
+    "id": 308,
+    "nume": "castraveti romanesc",
+    "reteta": "3878, 1636, 1448"
+  },
+  {
+    "id": 309,
+    "nume": "rosii sarat",
+    "reteta": "205, 2980, 2258"
+  },
+  {
+    "id": 310,
+    "nume": "pui dulce",
+    "reteta": "298, 2223, 3049"
+  },
+  {
+    "id": 311,
+    "nume": "branza a la inginer",
+    "reteta": "932, 4282, 3600"
+  },
+  {
+    "id": 312,
+    "nume": "rosii special",
+    "reteta": "101, 1636, 3126"
+  },
+  {
+    "id": 313,
+    "nume": "castraveti sarat",
+    "reteta": "700, 198, 678"
+  },
+  {
+    "id": 314,
+    "nume": "vita special",
+    "reteta": "2146, 1611, 3522"
+  },
+  {
+    "id": 315,
+    "nume": "branza dulce",
+    "reteta": "961, 4236, 1514"
+  },
+  {
+    "id": 316,
+    "nume": "pui ca la mama acasa",
+    "reteta": "790, 1029, 2725"
+  },
+  {
+    "id": 317,
+    "nume": "rosii de provincie",
+    "reteta": "4460, 485, 65"
+  },
+  {
+    "id": 318,
+    "nume": "castraveti dulce",
+    "reteta": "2034, 3323, 504"
+  },
+  {
+    "id": 319,
+    "nume": "rosii a la inginer",
+    "reteta": "350, 788, 2476"
+  },
+  {
+    "id": 320,
+    "nume": "pui dulce",
+    "reteta": "1695, 1017, 4485"
+  },
+  {
+    "id": 321,
+    "nume": "branza sarat",
+    "reteta": "1811, 2703, 1936"
+  },
+  {
+    "id": 322,
+    "nume": "morcovi special",
+    "reteta": "4134, 3707, 249"
+  },
+  {
+    "id": 323,
+    "nume": "porc de provincie",
+    "reteta": "175, 1850, 1082"
+  },
+  {
+    "id": 324,
+    "nume": "vita studentesc",
+    "reteta": "4291, 2028, 2324"
+  },
+  {
+    "id": 325,
+    "nume": "pui a la inginer",
+    "reteta": "1971, 2996, 4040"
+  },
+  {
+    "id": 326,
+    "nume": "porc de provincie",
+    "reteta": "1475, 4298, 1284"
+  },
+  {
+    "id": 327,
+    "nume": "lapte studentesc",
+    "reteta": "3185, 519, 1975"
+  },
+  {
+    "id": 328,
+    "nume": "rosii studentesc",
+    "reteta": "1411, 1440, 1981"
+  },
+  {
+    "id": 329,
+    "nume": "pui romanesc",
+    "reteta": "134, 2981, 4082"
+  },
+  {
+    "id": 330,
+    "nume": "pui romanesc",
+    "reteta": "1667, 2659, 1355"
+  },
+  {
+    "id": 331,
+    "nume": "rosii special",
+    "reteta": "2192, 562, 1060"
+  },
+  {
+    "id": 332,
+    "nume": "vita special",
+    "reteta": "1591, 2968, 3616"
+  },
+  {
+    "id": 333,
+    "nume": "vita a la inginer",
+    "reteta": "990, 3098, 2957"
+  },
+  {
+    "id": 334,
+    "nume": "branza studentesc",
+    "reteta": "1738, 931, 4009"
+  },
+  {
+    "id": 335,
+    "nume": "rosii sarat",
+    "reteta": "2341, 750, 2819"
+  },
+  {
+    "id": 336,
+    "nume": "lapte sarat",
+    "reteta": "3254, 3128, 1160"
+  },
+  {
+    "id": 337,
+    "nume": "porc a la inginer",
+    "reteta": "931, 2730, 2796"
+  },
+  {
+    "id": 338,
+    "nume": "lapte romanesc",
+    "reteta": "4138, 2777, 3413"
+  },
+  {
+    "id": 339,
+    "nume": "lapte a la inginer",
+    "reteta": "562, 2505, 3824"
+  },
+  {
+    "id": 340,
+    "nume": "lapte sarat",
+    "reteta": "4556, 2736, 3372"
+  },
+  {
+    "id": 341,
+    "nume": "morcovi special",
+    "reteta": "347, 4259, 3100"
+  },
+  {
+    "id": 342,
+    "nume": "pui special",
+    "reteta": "964, 2907, 381"
+  },
+  {
+    "id": 343,
+    "nume": "porc ca la mama acasa",
+    "reteta": "1297, 40, 3563"
+  },
+  {
+    "id": 344,
+    "nume": "branza de provincie",
+    "reteta": "3704, 3937, 4322"
+  },
+  {
+    "id": 345,
+    "nume": "castraveti sarat",
+    "reteta": "4799, 4246, 3945"
+  },
+  {
+    "id": 346,
+    "nume": "morcovi romanesc",
+    "reteta": "2278, 3674, 4212"
+  },
+  {
+    "id": 347,
+    "nume": "porc romanesc",
+    "reteta": "4210, 3005, 1418"
+  },
+  {
+    "id": 348,
+    "nume": "castraveti de provincie",
+    "reteta": "92, 3436, 3458"
+  },
+  {
+    "id": 349,
+    "nume": "lapte special",
+    "reteta": "4244, 1311, 3953"
+  },
+  {
+    "id": 350,
+    "nume": "rosii romanesc",
+    "reteta": "146, 2180, 546"
+  },
+  {
+    "id": 351,
+    "nume": "morcovi dulce",
+    "reteta": "3127, 3264, 1649"
+  },
+  {
+    "id": 352,
+    "nume": "lapte a la inginer",
+    "reteta": "3387, 4290, 2586"
+  },
+  {
+    "id": 353,
+    "nume": "porc dulce",
+    "reteta": "3225, 3388, 3474"
+  },
+  {
+    "id": 354,
+    "nume": "branza ca la mama acasa",
+    "reteta": "2042, 50, 3767"
+  },
+  {
+    "id": 355,
+    "nume": "lapte special",
+    "reteta": "3528, 1983, 4632"
+  },
+  {
+    "id": 356,
+    "nume": "porc special",
+    "reteta": "2044, 1612, 2304"
+  },
+  {
+    "id": 357,
+    "nume": "castraveti romanesc",
+    "reteta": "2150, 3685, 4314"
+  },
+  {
+    "id": 358,
+    "nume": "pui dulce",
+    "reteta": "3965, 1924, 1784"
+  },
+  {
+    "id": 359,
+    "nume": "branza dulce",
+    "reteta": "118, 3559, 2710"
+  },
+  {
+    "id": 360,
+    "nume": "pui sarat",
+    "reteta": "3899, 769, 3969"
+  },
+  {
+    "id": 361,
+    "nume": "pui romanesc",
+    "reteta": "4735, 1620, 853"
+  },
+  {
+    "id": 362,
+    "nume": "vita de provincie",
+    "reteta": "2735, 4735, 793"
+  },
+  {
+    "id": 363,
+    "nume": "rosii studentesc",
+    "reteta": "3741, 4416, 2384"
+  },
+  {
+    "id": 364,
+    "nume": "castraveti studentesc",
+    "reteta": "2676, 347, 3584"
+  },
+  {
+    "id": 365,
+    "nume": "pui a la inginer",
+    "reteta": "4267, 2378, 602"
+  },
+  {
+    "id": 366,
+    "nume": "castraveti ca la mama acasa",
+    "reteta": "838, 3689, 2410"
+  },
+  {
+    "id": 367,
+    "nume": "rosii de provincie",
+    "reteta": "2459, 1082, 3078"
+  },
+  {
+    "id": 368,
+    "nume": "castraveti a la inginer",
+    "reteta": "3645, 1036, 4287"
+  },
+  {
+    "id": 369,
+    "nume": "vita a la inginer",
+    "reteta": "4593, 1606, 2066"
+  },
+  {
+    "id": 370,
+    "nume": "rosii dulce",
+    "reteta": "4596, 1452, 3518"
+  },
+  {
+    "id": 371,
+    "nume": "lapte sarat",
+    "reteta": "118, 2546, 2115"
+  },
+  {
+    "id": 372,
+    "nume": "morcovi ca la mama acasa",
+    "reteta": "716, 1457, 1002"
+  },
+  {
+    "id": 373,
+    "nume": "pui studentesc",
+    "reteta": "51, 936, 1641"
+  },
+  {
+    "id": 374,
+    "nume": "castraveti sarat",
+    "reteta": "3476, 1004, 4139"
+  },
+  {
+    "id": 375,
+    "nume": "branza dulce",
+    "reteta": "1568, 2999, 4048"
+  },
+  {
+    "id": 376,
+    "nume": "porc ca la mama acasa",
+    "reteta": "192, 1331, 3829"
+  },
+  {
+    "id": 377,
+    "nume": "rosii de provincie",
+    "reteta": "3821, 2484, 1571"
+  },
+  {
+    "id": 378,
+    "nume": "vita de provincie",
+    "reteta": "2914, 3708, 849"
+  },
+  {
+    "id": 379,
+    "nume": "pui dulce",
+    "reteta": "1151, 3183, 4502"
+  },
+  {
+    "id": 380,
+    "nume": "pui de provincie",
+    "reteta": "4101, 2967, 3832"
+  },
+  {
+    "id": 381,
+    "nume": "pui romanesc",
+    "reteta": "1107, 1465, 446"
+  },
+  {
+    "id": 382,
+    "nume": "porc ca la mama acasa",
+    "reteta": "1262, 2406, 4205"
+  },
+  {
+    "id": 383,
+    "nume": "vita dulce",
+    "reteta": "4028, 3598, 816"
+  },
+  {
+    "id": 384,
+    "nume": "vita dulce",
+    "reteta": "1791, 4445, 3705"
+  },
+  {
+    "id": 385,
+    "nume": "branza de provincie",
+    "reteta": "410, 2925, 425"
+  },
+  {
+    "id": 386,
+    "nume": "porc romanesc",
+    "reteta": "2559, 4671, 1152"
+  },
+  {
+    "id": 387,
+    "nume": "pui a la inginer",
+    "reteta": "860, 34, 2547"
+  },
+  {
+    "id": 388,
+    "nume": "vita a la inginer",
+    "reteta": "3862, 2230, 1286"
+  },
+  {
+    "id": 389,
+    "nume": "lapte ca la mama acasa",
+    "reteta": "2190, 1982, 3346"
+  },
+  {
+    "id": 390,
+    "nume": "porc romanesc",
+    "reteta": "4663, 1750, 1767"
+  },
+  {
+    "id": 391,
+    "nume": "branza a la inginer",
+    "reteta": "2382, 3452, 2255"
+  },
+  {
+    "id": 392,
+    "nume": "vita romanesc",
+    "reteta": "509, 3664, 1074"
+  },
+  {
+    "id": 393,
+    "nume": "vita romanesc",
+    "reteta": "854, 4289, 2549"
+  },
+  {
+    "id": 394,
+    "nume": "pui romanesc",
+    "reteta": "2952, 1979, 4466"
+  },
+  {
+    "id": 395,
+    "nume": "lapte special",
+    "reteta": "1301, 220, 759"
+  },
+  {
+    "id": 396,
+    "nume": "morcovi romanesc",
+    "reteta": "428, 377, 2960"
+  },
+  {
+    "id": 397,
+    "nume": "branza ca la mama acasa",
+    "reteta": "1274, 533, 1845"
+  },
+  {
+    "id": 398,
+    "nume": "castraveti sarat",
+    "reteta": "885, 4657, 2124"
+  },
+  {
+    "id": 399,
+    "nume": "lapte de provincie",
+    "reteta": "1498, 2879, 4715"
+  },
+  {
+    "id": 400,
+    "nume": "morcovi de provincie",
+    "reteta": "1776, 791, 2967"
+  }
+]
